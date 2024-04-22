@@ -1,11 +1,16 @@
 _repo: A-world-to-die-for_73354
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73354-h/images/cover.jpg
 creator:
   author:
     agent_name: Carson, Sam
     gutenberg_agent_id: '51599'
     url: http://www.gutenberg.org/2009/agents/51599
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73354#A-world-to-die-for
 gutenberg_issued: '2024-04-08'
 gutenberg_type: Text
 identifiers:
